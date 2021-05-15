@@ -1,53 +1,167 @@
-:root{
-    --card-color: rgba(54, 0, 204, 0.555);
-    --card-header-color: red;
-    --card-body-color:white;
-    --card-footer-color: indigo;
- }
- .card{
-     margin: 0 auto;
-     background: var(--card-color);
-     color:rgb(255, 255, 255);
-     width: 400px;
-     padding: 20px;
-     box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.377);
-     border-radius: 5px;            
- }
- .card-header{
-     background: var(--card-header-color);            
-     margin: -20px;
-     padding: 20px;
-     border-radius: 5px 5px 0px 0px;
- }
- .card-body{
-     background: var(--card-body-color);
-     margin: -20px;
-     padding: 20px;
-     border-radius: 00px 00px 5px 5px;
-     
- }
- .texto{
-     color: black;
- }
- .card-footer{
-     background: var(--card-footer-color);
-     margin: -20px;
-     padding: 20px;
-     border-radius: 00px 00px 20px 20px;
-     display: flex;
-     justify-content: space-between
- }
- a{
-     padding: 8px;
-     margin: 2px;
-     border-radius: 5px;
-     border: 1px solid white;
-     width: 100%;
-     text-align: center;
-     color: rgb(0, 0, 0);
-     text-decoration: none;
- }
- a:hover{
-     color: var(--card-body-color);
-     background:rgb(0, 0, 0);
- }
+.e1_36 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:364px;
+	height:162px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	position:absolute;
+}
+.e1_37 { 
+	background-color:rgba(235.0000011920929, 87.00000241398811, 87.00000241398811, 1);
+	width:364px;
+	height:67px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e1_38 { 
+	color:rgba(255, 255, 255, 1);
+	width:10px;
+	height:19px;
+	position:absolute;
+	left:19px;
+	top:26px;
+	font-family:Lato;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e1_39 { 
+	color:rgba(255, 255, 255, 1);
+	width:162px;
+	height:19px;
+	position:absolute;
+	left:52px;
+	top:25px;
+	font-family:Lato;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e1_40 { 
+	width:127px;
+	height:30px;
+	position:absolute;
+	left:221px;
+	top:19px;
+}
+.e1_41 { 
+	width:84px;
+	height:19px;
+	position:absolute;
+	left:0px;
+	top:5.5px;
+}
+.e1_42 { 
+	color:rgba(255, 255, 255, 1);
+	width:46px;
+	height:19px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Lato;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e1_43 { 
+	color:rgba(255, 255, 255, 1);
+	width:38px;
+	height:19px;
+	position:absolute;
+	left:46px;
+	top:0px;
+	font-family:Lato;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e1_44 { 
+	width:30px;
+	height:30px;
+	position:absolute;
+	left:97px;
+	top:0px;
+}
+.e1_45 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:23.998703002929688px;
+	height:24.8125px;
+	position:absolute;
+	left:3.00181245803833px;
+	top:2.59375px;
+}
+.e1_46 { 
+	border-radius:500px;
+	width:32px;
+	height:32px;
+	position:absolute;
+	left:8px;
+	top:20px;
+}
+.1_46 { 
+	border:1px solid rgba(255, 255, 255, 1);
+}
+.e1_47 { 
+	width:363px;
+	height:39px;
+	position:absolute;
+	left:0px;
+	top:77px;
+}
+.e1_48 { 
+	color:rgba(47.0000009983778, 47.0000009983778, 47.0000009983778, 1);
+	width:321px;
+	height:19px;
+	position:absolute;
+	left:21px;
+	top:10px;
+	font-family:Lato;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e1_49 { 
+	width:364px;
+	height:36px;
+	position:absolute;
+	left:0px;
+	top:126px;
+}
+.1_50 { 
+	border:1px solid rgba(219.30000364780426, 219.30000364780426, 219.30000364780426, 1);
+}
+.e1_50 { 
+	width:330px;
+	height:0px;
+	position:absolute;
+	left:18px;
+	top:0px;
+}
+.e1_51 { 
+	color:rgba(136.00000709295273, 136.00000709295273, 136.00000709295273, 1);
+	width:76px;
+	height:16px;
+	position:absolute;
+	left:19px;
+	top:9px;
+	font-family:Lato;
+	text-align:left;
+	font-size:13px;
+	letter-spacing:0;
+}
+.e1_52 { 
+	color:rgba(136.00000709295273, 136.00000709295273, 136.00000709295273, 1);
+	width:58px;
+	height:16px;
+	position:absolute;
+	left:289px;
+	top:9px;
+	font-family:Lato;
+	text-align:right;
+	font-size:13px;
+	letter-spacing:0;
+}
